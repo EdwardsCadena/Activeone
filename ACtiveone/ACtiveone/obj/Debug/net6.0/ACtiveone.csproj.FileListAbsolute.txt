@@ -1,0 +1,15 @@
+F:\Repositories\ACtiveone\ACtiveone\bin\Debug\net6.0\ACtiveone.exe
+F:\Repositories\ACtiveone\ACtiveone\bin\Debug\net6.0\ACtiveone.deps.json
+F:\Repositories\ACtiveone\ACtiveone\bin\Debug\net6.0\ACtiveone.runtimeconfig.json
+F:\Repositories\ACtiveone\ACtiveone\bin\Debug\net6.0\ACtiveone.dll
+F:\Repositories\ACtiveone\ACtiveone\bin\Debug\net6.0\ACtiveone.pdb
+F:\Repositories\ACtiveone\ACtiveone\obj\Debug\net6.0\ACtiveone.csproj.AssemblyReference.cache
+F:\Repositories\ACtiveone\ACtiveone\obj\Debug\net6.0\ACtiveone.GeneratedMSBuildEditorConfig.editorconfig
+F:\Repositories\ACtiveone\ACtiveone\obj\Debug\net6.0\ACtiveone.AssemblyInfoInputs.cache
+F:\Repositories\ACtiveone\ACtiveone\obj\Debug\net6.0\ACtiveone.AssemblyInfo.cs
+F:\Repositories\ACtiveone\ACtiveone\obj\Debug\net6.0\ACtiveone.csproj.CoreCompileInputs.cache
+F:\Repositories\ACtiveone\ACtiveone\obj\Debug\net6.0\ACtiveone.dll
+F:\Repositories\ACtiveone\ACtiveone\obj\Debug\net6.0\refint\ACtiveone.dll
+F:\Repositories\ACtiveone\ACtiveone\obj\Debug\net6.0\ACtiveone.pdb
+F:\Repositories\ACtiveone\ACtiveone\obj\Debug\net6.0\ACtiveone.genruntimeconfig.cache
+F:\Repositories\ACtiveone\ACtiveone\obj\Debug\net6.0\ref\ACtiveone.dll
